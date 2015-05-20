@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PYM</string>
+    <string name="home_txt">HOME SCREEN</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="facebook_app_id">1657715507774250</string>
+
+    <!-- Title-->
+    <string name="login_title">Login</string>
+    <string name="register_title">Register</string>
+    <string name="home_title">Home</string>
+
+    <string name="forgot_password">Forgot Password</string>
+    <string name="txt_forgot_password"><u>Forgot Password?</u></string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_email">Register with Email</string>
+    <string name="login_with_fb">Login with Facebook</string>
+    <string name="logout_from_fb">Logout from Facebook</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Password do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_field_length">Maximum length of 50 is allowed for this field</string>
+    <string name="error_invalid_name">This field can only have characters and a maximum length of 50</string>
+    <string name="error_password_length">Minimum 8 and maximum 50 length is allowed for this field</string>
+    <string name="error_invalid_number">This number is invalid</string>
+    <string name="progress_loding_message">Loading...</string>
+    <string name="error_login_with_fb">There was some problem establishing connection with Facebook. Please try again.</string>
+    <string name="error_response">There was some problem getting response from server. Please try again.</string>
+    <string name="error_network">Internet connection seems to be down or not connected. kindly check your Internet settings.</string>
+    <string name="error_getting_user_detail_from_fb">There was some problem, while getting your detail from Facebook. Please try again.</string>
+
+    <!--Button-->
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="logout_button">Logout</string>
+</resources>
